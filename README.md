@@ -1,3 +1,7 @@
-# ISyE3133GurobiProject
+# power_grid_optimization
 
-This repository is for my final project in ISyE 3133 - Optimization, where we modeled and solved a max flow problem for a hypothetical power grid. In part 2 of the project, we modeled and maximized a fairness metric for the grid. All code is written by me.
+<p>This repo contains all files utilized for the final report in ISyE 3133 - Optimization</p>
+
+### The Final Report
+
+<p>The final report contains analysis on a hypothetical network max flow problem, including: network flow modeling, optimization, and fairness metrics. Gurobi was utilized to perform optimization of the network flow models. All code was written by me.</p>
